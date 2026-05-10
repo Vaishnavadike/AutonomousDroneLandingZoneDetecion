@@ -1,4 +1,4 @@
-# CSF407_2026_2022A7PS0151H_Assignment-II
+# CSF407 Assignment-II
 
 # AI-Based Autonomous Drone Landing Zone Detection using Semantic Segmentation, Depth Estimation and Knowledge Graph Reasoning
 
@@ -8,7 +8,7 @@
 
 * Course: CSF407 – Artificial Intelligence
 * Assignment: Assignment II
-* Student ID: 2022A7PS0151H
+* Student ID: 2022A7PS0151H, 2022A4PS1508H, 2022A3PS0576H
 * Submission Repository: Private GitHub Repository
 
 ---
