@@ -1,0 +1,8 @@
+﻿semantic_drone_dataset_semantics_v1.1/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+*.pyc
+*.jpg
+*.png
+*.zip
