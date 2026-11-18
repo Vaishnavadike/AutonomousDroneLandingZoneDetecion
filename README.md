@@ -4,15 +4,6 @@
 
 ---
 
-# Student Information
-
-* Course: CSF407 – Artificial Intelligence
-* Assignment: Assignment II
-* Student ID: 2022A7PS0151H, 2022A4PS1508H, 2022A3PS0576H
-* Submission Repository: Private GitHub Repository
-
----
-
 # Project Overview
 
 This project implements an intelligent drone landing zone detection system using:
